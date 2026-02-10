@@ -2,7 +2,6 @@
   "name": "admin-dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://laharigontla.github.io/admin-dashboard",
   "dependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.x.x",
     "@testing-library/jest-dom": "^5.17.0",
